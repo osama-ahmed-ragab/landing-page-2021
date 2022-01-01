@@ -1,5 +1,13 @@
-# Landing Page Project
+# Landing Page
 
-this is a responsive landing page as a test to what we learn in udacity nanodegree 
-we use html,css and javascript with node.js
-this app creat sections when you press in add sections button and handle all what we need in creating section 
+This project is for Udacity's Front End Nanodegree program. HTML and CSS starter code provided by Udacity. 
+
+## Description
+
+This is a basic landing page that uses Javascript to create a NavBar dynamically and to highlight sections when scrolled. The project uses HTML, CSS, and Javascript. 
+
+### To view project
+
+The project is published on GitHub Pages. To view, click on this link: [link to project](https://mischegoss.github.io/Udacity-Landing-Page/)
+
+
