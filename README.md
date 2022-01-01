@@ -6,8 +6,3 @@ This project is for Udacity's Front End Nanodegree program. HTML and CSS starter
 
 This is a basic landing page that uses Javascript to create a NavBar dynamically and to highlight sections when scrolled. The project uses HTML, CSS, and Javascript. 
 
-### To view project
-
-The project is published on GitHub Pages. To view, click on this link: [link to project](https://github.com/osama-ahmed-ragab/landing-page-2021)
-
-
